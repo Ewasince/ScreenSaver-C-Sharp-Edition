@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSaver C Sharp Edition", "ScreenSaver C Sharp Edition\ScreenSaver C Sharp Edition.csproj", "{6C210695-E986-40C6-BB93-1E315634CC1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C210695-E986-40C6-BB93-1E315634CC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C210695-E986-40C6-BB93-1E315634CC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C210695-E986-40C6-BB93-1E315634CC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C210695-E986-40C6-BB93-1E315634CC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {956901BB-7521-4268-9140-D1F38BA5BAD6}
+	EndGlobalSection
+EndGlobal
